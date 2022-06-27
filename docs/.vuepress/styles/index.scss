@@ -1,0 +1,20 @@
+@import url("https://template.sagelga.com/styles/stylesheet.css");
+
+:root {
+  --font-family: "Anuphan", "IBM Plex Sans", sans-serif;
+  --font-family-code: "IBM Plex Mono", monospace;
+
+  scroll-behavior: smooth;
+
+  --c-brand: rgb(31, 70, 144);
+  --c-brand-light: rgb(58, 91, 160);
+}
+
+html.dark {
+  // brand colors
+  --c-brand: rgb(255, 165, 0);
+  --c-brand-light: rgb(255, 229, 180);
+}
+
+// accent rgb(255, 165, 0)
+// accent rgb(255, 229, 180)

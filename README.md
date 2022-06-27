@@ -1,2 +1,25 @@
-# preprogramming
-Pre-programming course for ITKMITL student
+# IT KMITL Pre-Programming
+เนื้อหาการสอน Pre-programming สำหรับนักศึกษา IT KMITL
+
+## Contribute
+Repository นี้ถูกสร้างขึ้นจากพี่ [@sagelga](https://github.com/sagelga) เพื่อให้น้อง ๆ รุ่นถัดไปสามารถนำเอาไปต่อยอดและพัฒนาอย่างต่อเนื่องกับการสอนน้อง ๆ รุ่นใหม่ ๆ ที่จะเข้ามาเรียนในคณะ IT
+
+สำหรับพี่ ๆ ที่กำลังเตรียมเนื้อหาสำหรับการสอน ที่ต้องการใช้เว็บไซต์นี้เป็นเนื้อหาเพิ่มเติมหรือใช้เป็น Reference ก็สามารถส่ง Pull Request มาได้ตลอดเวลา
+
+โดยพี่จะอนุมัติ Pull Request สำหรับ:
+- การแก้ไขคำผิด
+- การแก้ลิงก์ที่ผิด/ไม่มีอยู่
+- การอัพเดทเนื้อหาที่ล้าสมัย
+- เนื้อหาที่ไม่กระชับและไม่ครอบคลุม
+- การจัดระบบหลังบ้าน (Vue + VuePress) ใหม่
+- แบบทดสอบใหม่
+
+แต่จะขอปฏิเสธการทำ Pull Request ดังนี้
+- การปรับเนื้อหาเว็บไซต์ ที่ใช้เนื้อหานั้นได้ปีนั้นปีเดียวเท่านั้น
+- การขายหรือโฆษณากิจกรรมอื่น ๆ ที่ไม่เกี่ยวข้องกับการเรียน Pre-Programming
+- การเปลี่ยนระบบหลังบ้านเป็นค่ายอื่น
+
+
+<a href="https://github.com/sagelga/preprogramming/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sagelga/preprogramming" />
+</a>
