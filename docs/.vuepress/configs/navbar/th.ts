@@ -7,7 +7,11 @@ export const th: NavbarConfig = [
     children: [
       {
         text: "เกี่ยวกับ Pre-programming",
-        link: "/introduction/about/",
+        link: "/about/",
+      },
+      {
+        text: "คำถามถามบ่อย (FAQ)",
+        link: "/about/faq/",
       },
     ],
   },
