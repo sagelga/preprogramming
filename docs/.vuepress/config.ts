@@ -45,7 +45,9 @@ export default defineUserConfig({
       "/": {
         navbar: navbar.th,
         sidebar: sidebar.th,
-        editLinkText: "Edit",
+        editLink: false,
+        lastUpdatedText: "แก้ไขล่าสุด",
+        contributorsText: "เขียนโดย",
       },
     },
   }),
@@ -57,7 +59,7 @@ export default defineUserConfig({
     //   indexName: "sagelga",
     // }),
     googleAnalyticsPlugin({
-      id: "G-BTF0LX3HTD",
+      id: "G-5RQS97DPM9",
     }),
   ],
 });
