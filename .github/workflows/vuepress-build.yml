@@ -1,12 +1,11 @@
 name: Vuepress Build
 
-# Controls when the action will run.
 on:
   push:
     branches:
       - "**" # matches every branch
+      - "!main" # except main
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build-only:
     runs-on: ubuntu-latest
