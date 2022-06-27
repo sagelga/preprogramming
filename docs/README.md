@@ -5,15 +5,12 @@ heroAlt: Website's Logo
 footer: © 2017-2022 สร้างขึ้นจากความ ❤ โดย @sagelga
 
 actions:
-    - text: เริ่มต้น ➡
-      link: /introduction/
-      type: primary
     - text: เนื้อหาการสอน
       link: /course/
-      type: secondary
+      type: primary
     - text: แบบฝึกหัด
       link: /exercise/
-      type: secondary
+      type: primary
     - text: ระบบ e-Judge
       link: /ejudge/
       type: secondary
@@ -23,7 +20,7 @@ actions:
 
 features:
   - title: เนื้อหาแน่นเอี้ยด!
-    details: เราจัดให้ตั้งแต่เด็กน้อยยันเด็กเทพ และเต็มอื่มอย่างแน่นอน
+    details: เราจัดให้ตั้งแต่เด็กน้อยยันเด็กเทพ และเต็มอิ่มอย่างแน่นอน
   - title: แบบฝึกหัดเพียบ!
     details: เพื่อนคู่ใจเตรียมสอบการเขียนโปรแกรมก็พลาดไม่ได้เช่นกัน
   - title: มีโหมดกลางคืนด้วยนะ!
