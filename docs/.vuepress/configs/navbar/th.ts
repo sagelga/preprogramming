@@ -22,14 +22,18 @@ export const th: NavbarConfig = [
     // ],
   },
   {
-    text: "แบบทดสอบ",
-    link: "/excercise/",
+    text: "แบบฝึกหัด",
+    link: "/exercise/",
     // children: [
     //   {
     //     text: "Introduction",
     //     link: "/introduction/",
     //   },
     // ],
+  },
+  {
+    text: "เคล็ดลับ",
+    link: "/tips/",
   },
   {
     text: "เพิ่มเติม",

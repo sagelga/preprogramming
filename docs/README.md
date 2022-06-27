@@ -6,19 +6,19 @@ footer: © 2017-2022 สร้างขึ้นจากความ ❤ โด
 
 actions:
     - text: เริ่มต้น ➡
-      link: /introduction
+      link: /introduction/
       type: primary
     - text: เนื้อหาการสอน
-      link: /course
+      link: /course/
       type: secondary
     - text: แบบฝึกหัด
-      link: /excercise
+      link: /exercise/
       type: secondary
     - text: ระบบ e-Judge
-      link: /ejudge
+      link: /ejudge/
       type: secondary
     - text: เคล็ดลับ
-      link: /tips
+      link: /tips/
       type: secondary
 
 features:
