@@ -1,7 +1,7 @@
 import { defineUserConfig } from "@vuepress/cli";
 import { defaultTheme } from "@vuepress/theme-default";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import { docsearchPlugin } from "@vuepress/plugin-docsearch";
+// import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { navbar, sidebar } from "./configs";
 
 export default defineUserConfig({
@@ -30,7 +30,7 @@ export default defineUserConfig({
     "/": {
       lang: "th-TH",
       title: "IT KMITL Pre-Programming",
-      description: "คอรส์เรียนเขียนโปรแกรมเบื้องต้นสำหรับนักเรียน IT KMITL",
+      description: "คอรส์เรียนเขียนโปรแกรมเบื้องต้นสำหรับนักเรียนคณะ IT KMITL",
     },
   },
 

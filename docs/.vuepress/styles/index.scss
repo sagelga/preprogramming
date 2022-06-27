@@ -2,7 +2,8 @@
 
 :root {
   --font-family: "Anuphan", "IBM Plex Sans", sans-serif;
-  --font-family-code: "IBM Plex Mono", monospace;
+  --font-family-code: "JetBrains Mono", "IBM Plex Mono", monospace;
+  --font-family-monospace: "JetBrains Mono", "IBM Plex Mono", monospace;
 
   scroll-behavior: smooth;
 
@@ -10,11 +11,8 @@
   --c-brand-light: rgb(58, 91, 160);
 }
 
+// Settings for dark mode
 html.dark {
-  // brand colors
   --c-brand: rgb(255, 165, 0);
   --c-brand-light: rgb(255, 229, 180);
 }
-
-// accent rgb(255, 165, 0)
-// accent rgb(255, 229, 180)
