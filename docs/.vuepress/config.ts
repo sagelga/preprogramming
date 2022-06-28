@@ -24,6 +24,13 @@ export default defineUserConfig({
         href: "https://img.icons8.com/fluency/128/000000/e-learning.png",
       },
     ],
+    [
+      "meta",
+      {
+        name: "google-site-verification",
+        content: "YfryvcUpXvpvzX8xdK2JY2yad89if-kCk1Mo7ogs5Is",
+      },
+    ],
   ],
 
   locales: {
