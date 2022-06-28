@@ -5,11 +5,11 @@ heroAlt: Website's Logo
 footer: © 2017-2022 สร้างขึ้นจากความ ❤ โดย @sagelga
 
 actions:
-    - text: เนื้อหาการสอน
-      link: /course/
+    - text: เรียน Python
+      link: /course/python/
       type: primary
-    - text: แบบฝึกหัด
-      link: /exercise/
+    - text: แบบฝึกหัด Python
+      link: /exercise/python/
       type: primary
     - text: ระบบ e-Judge
       link: /ejudge/

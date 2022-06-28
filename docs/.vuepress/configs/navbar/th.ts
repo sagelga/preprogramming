@@ -18,26 +18,29 @@ export const th: NavbarConfig = [
   {
     text: "เนื้อหา",
     link: "/course/",
-    // children: [
-    //   {
-    //     text: "Introduction",
-    //     link: "/introduction/",
-    //   },
-    // ],
+    children: [
+      "/course/python/algorithm/",
+      "/course/python/introduction/",
+      "/course/python/variable/",
+      "/course/python/data-type/",
+      "/course/python/functions/",
+      "/course/python/code-standard/",
+      "/course/python/string/",
+      "/course/python/decision/",
+      "/course/python/loop/",
+      "/course/python/array/",
+      "/course/python/dictionary/",
+    ],
   },
   {
     text: "แบบฝึกหัด",
     link: "/exercise/",
-    // children: [
-    //   {
-    //     text: "Introduction",
-    //     link: "/introduction/",
-    //   },
-    // ],
+    children: [],
   },
   {
     text: "เคล็ดลับ",
     link: "/tips/",
+    children: ["/tips/activity/", "/tips/psit/"],
   },
   {
     text: "เพิ่มเติม",
