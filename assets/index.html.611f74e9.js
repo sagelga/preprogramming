@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1557149e","path":"/tips/","title":"\u0E40\u0E04\u0E25\u0E47\u0E14\u0E25\u0E31\u0E1A","lang":"th-TH","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656406991000,"contributors":[{"name":"Kunanon Srisuntiroj","email":"son9912@gmail.com","commits":1}]},"filePathRelative":"tips/README.md"}');export{t as data};
