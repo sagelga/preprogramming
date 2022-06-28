@@ -30,7 +30,7 @@ export default defineUserConfig({
     "/": {
       lang: "th-TH",
       title: "IT KMITL Pre-Programming",
-      description: "คอรส์เรียนเขียนโปรแกรมเบื้องต้นสำหรับนักเรียนคณะ IT KMITL",
+      description: "คอร์สเรียนเขียนโปรแกรมเบื้องต้นสำหรับนักเรียนคณะ IT KMITL",
     },
   },
 
