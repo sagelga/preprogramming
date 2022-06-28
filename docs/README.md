@@ -6,10 +6,10 @@ footer: © 2017-2022 สร้างขึ้นจากความ ❤ โด
 
 actions:
     - text: เรียน Python
-      link: /course/python/
+      link: /python/course/
       type: primary
     - text: แบบฝึกหัด Python
-      link: /exercise/python/
+      link: /python/exercise/
       type: primary
     - text: ระบบ e-Judge
       link: /ejudge/

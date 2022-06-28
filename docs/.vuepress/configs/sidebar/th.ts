@@ -1,26 +1,26 @@
 import type { SidebarConfig } from "@vuepress/theme-default";
 
 export const th: SidebarConfig = {
-  "/course/": [
+  "/python/course/": [
     {
       text: "Python เบื้องต้น",
-      link: "/course/",
+      link: "python/course/",
       children: [
-        "/course/python/algorithm/",
-        "/course/python/introduction/",
-        "/course/python/variable/",
-        "/course/python/data-type/",
-        "/course/python/functions/",
-        "/course/python/code-standard/",
-        "/course/python/string/",
-        "/course/python/decision/",
-        "/course/python/loop/",
-        "/course/python/array/",
-        "/course/python/dictionary/",
+        "/python/course/algorithm/",
+        "/python/course/introduction/",
+        "/python/course/variable/",
+        "/python/course/data-type/",
+        "/python/course/functions/",
+        "/python/course/code-standard/",
+        "/python/course/string/",
+        "/python/course/decision/",
+        "/python/course/loop/",
+        "/python/course/array/",
+        "/python/course/dictionary/",
       ],
     },
   ],
-  "/excercise/": [
+  "/python/excercise/": [
     {
       text: "การทำงาน",
       link: "/excercise/",
